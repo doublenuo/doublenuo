@@ -31,6 +31,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=doublenuo&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/doublenuo?style=for-the-badge&color=FF5F6D&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/doublenuo?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
 </p>
 
 </div>
