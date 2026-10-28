@@ -142,27 +142,13 @@ The broader objective is to improve robot adaptability under changes in payload 
   <img src="https://img.shields.io/badge/Control-MPC%20%7C%20WBC-8A63D2?style=flat-square" alt="Control" />
 </p>
 
-## 🚀 Featured Projects
+### ⭐ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/doublenuo?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
-
-</div>
-
-My projects and experiments focus on:
-
-| Area | Focus |
-|---|---|
-| Humanoid Control | Locomotion, whole-body control, and motion tracking |
-| Robot Learning | Reinforcement learning and imitation learning |
-| Adaptive Manipulation | Payload estimation and object carrying |
-| Motion Retargeting | Human motion to humanoid robot motion |
-| Research Reproduction | Reproducible experiments and algorithm evaluation |
-
-*Selected repositories will be highlighted here as individual projects are published.*
+- **[Notes-Atlas](https://github.com/doublenuo/Notes-Atlas)** — A structured knowledge base for AI, robotics, reinforcement learning, research papers, and engineering practice.
+  - 📚 Technical notes and research insights
+  - 🤖 AI & robotics learning resources
+  - 🛠️ Hands-on projects and engineering experience
+  - 🌐 [Explore the Online Knowledge Base](https://doublenuo.github.io/Notes-Atlas/)
 
 ## 📊 GitHub Statistics
 
