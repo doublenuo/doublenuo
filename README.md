@@ -10,15 +10,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=2C9CDF&center=true&vCenter=true&width=700&lines=Learning+to+Control+Intelligent+Robots;Humanoid+Robotics+%7C+Reinforcement+Learning;Imitation+Learning+%7C+Whole-Body+Control;From+Simulation+to+Real-World+Robotics" alt="Typing SVG" />
 </p>
 
-<p>
+<p align="left">
   <a href="https://github.com/doublenuo">
-    <img src="https://img.shields.io/badge/GitHub-doublenuo-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:zwn200401@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.zhihu.com/people/pai-da-xiao-xing-xing-7">
+    <img src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎" />
   </a>
-  <a href="https://orcid.org/0009-0003-0132-2036">
-    <img src="https://img.shields.io/badge/ORCID-0009--0003--0132--2036-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  <a href="https://cnb.cool/u/cnb.bEVjkzoyQGA">
+    <img src="https://img.shields.io/badge/CNB%20Cool-333333?style=for-the-badge&logo=git&logoColor=white" alt="CNB Cool" />
   </a>
 </p>
 
@@ -186,9 +186,17 @@ The broader objective is to improve robot adaptability under changes in payload 
 
 ## 📫 Contact
 
-- **GitHub:** [@doublenuo](https://github.com/doublenuo)
-- **Email:** [zwn200401@gmail.com](mailto:zwn200401@gmail.com)
-- **ORCID:** [0009-0003-0132-2036](https://orcid.org/0009-0003-0132-2036)
+<p align="left">
+  <a href="https://github.com/doublenuo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.zhihu.com/people/pai-da-xiao-xing-xing-7">
+    <img src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎" />
+  </a>
+  <a href="https://cnb.cool/u/cnb.bEVjkzoyQGA">
+    <img src="https://img.shields.io/badge/CNB%20Cool-333333?style=for-the-badge&logo=git&logoColor=white" alt="CNB Cool" />
+  </a>
+</p>
 
 I'm interested in robotics research, open-source projects, and discussions about robot learning and control.
 
