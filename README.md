@@ -108,8 +108,6 @@ Investigating how humanoid robots can manipulate and carry objects with varying 
 - **Adaptive control:** Explore how estimated payload information can improve policy robustness and generalization.
 - **Uncertainty-aware decision-making:** Study when an estimate is reliable enough to influence robot control.
 
-**Research platform:** Unitree G1 · PhysHSI · Isaac Gym · Reinforcement Learning
-
 The broader objective is to improve robot adaptability under changes in payload dynamics without relying solely on retraining for every object configuration.
 
 ## 🛠️ Tech Stack
