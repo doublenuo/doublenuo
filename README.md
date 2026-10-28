@@ -101,48 +101,20 @@ My goal is to bridge the gap between **learning-based control, robot dynamics, a
 </tr>
 </table>
 
-## 🧪 Current Research
-
-### Load-Adaptive Humanoid Object Carrying
-
-Investigating how humanoid robots can manipulate and carry objects with varying payloads while maintaining stable, robust behavior.
-
-**Research directions:**
-
-- **Dynamics identification:** Estimate payload properties from robot observations and interaction signals.
-- **Phase-aware estimation:** Investigate how grasping, lifting, lowering, and carrying affect estimation quality.
-- **Adaptive control:** Explore how estimated payload information can improve policy robustness and generalization.
-- **Uncertainty-aware decision-making:** Study when an estimate is reliable enough to influence robot control.
-
-The broader objective is to improve robot adaptability under changes in payload dynamics without relying solely on retraining for every object configuration.
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java&perline=8" alt="Programming Languages" />
-
-### Machine Learning & Robotics
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,linux,docker,git,github,vscode,latex&perline=8" alt="Tools and Technologies" />
 
 </div>
 
-**Robotics & Simulation**
-
 <p>
-  <img src="https://img.shields.io/badge/Unitree%20G1-Humanoid%20Robot-222222?style=flat-square" alt="Unitree G1" />
   <img src="https://img.shields.io/badge/Isaac%20Gym-Physics%20Simulation-76B900?style=flat-square" alt="Isaac Gym" />
   <img src="https://img.shields.io/badge/Isaac%20Lab-Robot%20Learning-76B900?style=flat-square" alt="Isaac Lab" />
-  <img src="https://img.shields.io/badge/PhysHSI-Physics--Aware%20Learning-6C63FF?style=flat-square" alt="PhysHSI" />
-  <img src="https://img.shields.io/badge/GMR-Motion%20Retargeting-FF9671?style=flat-square" alt="GMR" />
-</p>
-
-**Learning & Control**
-
-<p>
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-PPO-2C9CDF?style=flat-square" alt="Reinforcement Learning" />
   <img src="https://img.shields.io/badge/Imitation%20Learning-Motion%20Tracking-FF5F6D?style=flat-square" alt="Imitation Learning" />
   <img src="https://img.shields.io/badge/Control-MPC%20%7C%20WBC-8A63D2?style=flat-square" alt="Control" />
